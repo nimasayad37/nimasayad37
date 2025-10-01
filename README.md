@@ -18,8 +18,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://t.me/HalfAhunter" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/>
-</a>
+ 
 
 
 
