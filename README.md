@@ -8,6 +8,7 @@
 
 ---
 
+---
 ## ⚡ Fun Facts About Me
 - I got 17 out of 20 from farhad rahmati in linear algebra. pretty cool right?
 
