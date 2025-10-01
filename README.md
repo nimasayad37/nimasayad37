@@ -9,10 +9,7 @@
 ---
 
 ## ⚡ Fun Facts About Me
-- 🧩 I treat coding problems like puzzles (and sometimes boss fights 🎮).  
-- ☕ Coffee + Late-night coding = best combo.  
-- 🤖 I genuinely think debugging is just digital detective work.  
-- 🐍 Python feels like my second language.  
+- I got 17 out of 20 from farhad rahmati in linear algebra. pretty cool right?
 
 ---
 
@@ -32,8 +29,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=NimaSayad&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaSayad&layout=compact&theme=radical)  
+![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=NimaSayad37&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaSayad37&layout=compact&theme=radical)  
 
 ---
 
