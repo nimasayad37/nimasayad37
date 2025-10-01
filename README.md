@@ -7,6 +7,7 @@
 🌍 English level: **IELTS 8**  
 
 ---
+<img src="https://github.com/nimasayad37/nimasayad37/blob/main/myphoto.jpg" alt="My Photo" width="200"/>
 
 ---
 ## ⚡ Fun Facts About Me
