@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Nima Sayad  
+# 👋 Hey there, I’m Nima Sayad 🦔
 
 🎓 3rd year **CS Major** at [Amirkabir University of Technology](https://aut.ac.ir/)  
 💻 Exploring the worlds of **Machine Learning, Classic AI, Data Science, and Backend Development**  
