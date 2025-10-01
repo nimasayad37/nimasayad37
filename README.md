@@ -14,10 +14,13 @@
 ---
 
 ## 📫 How to reach me 
+<a href="https://www.linkedin.com/in/Nima-Sayad/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://t.me/HalfAhunter" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/>
+</a>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HalfAhunter)  [HalfAhunter](https://t.me/HalfAhunter)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nimasayad44@gmail.com)  Nimasayad44@gmail.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  Nima Sayad
 
 
 
